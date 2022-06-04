@@ -9,6 +9,8 @@
 * Samuel Araújo
 
 ## A aplicação está em funcionamento no link:
-* [Recycrew]
+* [Aplicação]
+* [Fake Back-End]
 
-[Recycrew]: <https://recycrew-git-feature-front-consume-heroku-api-recycrew.vercel.app/>
+[Aplicação]: <https://recycrew-git-feature-front-consume-heroku-api-recycrew.vercel.app/>
+[Fake Back-End]: <https://server-fake-json.herokuapp.com/>
