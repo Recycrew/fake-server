@@ -12,5 +12,5 @@
 * [Aplicação]
 * [Fake Back-End]
 
-[Aplicação]: <https://recycrew-git-feature-front-consume-heroku-api-recycrew.vercel.app/>
+[Aplicação]: <https://recycrew.vercel.app/>
 [Fake Back-End]: <https://server-fake-json.herokuapp.com/>
