@@ -1,5 +1,6 @@
 # Integração do Front-End com o FakeJsonServer
-> Escolhemos usar um FakeJsonServer por enquanto, e futuramente desenvolver e implementar o Back-End.
+> Escolhemos usar um FakeJsonServer por enquanto, e futuramente desenvolver e implementar o Back-End,
+> utilizamos o heroku pra deploy tanto do Front quanto do FakeJson.
 
 ## A aplicação está em funcionamento no link:
 * [Recycrew]
